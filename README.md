@@ -1,1 +1,1 @@
-# PaPalmer_Archipelago_Penguins_KNN_Naive_Bayes
+# Palmer_Archipelago_Penguins_KNN_Naive_Bayes
